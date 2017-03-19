@@ -1,0 +1,21 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "Z5he847IxaBxcfmILqwRacgeFYQ=",
+			"path": "github.com/go-gl/gl/v4.1-core/gl",
+			"revision": "cd1cf4a9b229045e8a41d5945fc597617e8bae4f",
+			"revisionTime": "2016-03-06T11:11:50Z",
+			"tree": true
+		},
+		{
+			"checksumSHA1": "mkbtasagPoieaODTCLWx2A3lBBU=",
+			"path": "github.com/go-gl/glfw/v3.1/glfw",
+			"revision": "8c0e1945cd0d8980ba4834f65735ee03f99b2541",
+			"revisionTime": "2016-08-20T03:32:13Z",
+			"tree": true
+		}
+	],
+	"rootPath": "github.com/binary132/go-gl-tut"
+}
